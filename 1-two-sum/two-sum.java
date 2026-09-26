@@ -33,4 +33,4 @@ class Solution {
         System.out.println(Arrays.toString(obj.twoSum(nums,target)));
 
     }
-}///jhgvkjgub
+}
